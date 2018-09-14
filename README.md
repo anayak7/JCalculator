@@ -1,6 +1,6 @@
 # JCalculator
 
-This is a calculator that can perfrom simple mathematical functions such as add, subtract, multiplication, and division. It can also work
+This is a calculator that performs simple mathematical functions such as add, subtract, multiplication, and division. It can also work
 with numbers of different signs (positive and negative)!
 
 This is coded in Java and uses Java Swing for the GUI aspect of the calculator.
